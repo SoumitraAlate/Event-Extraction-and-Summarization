@@ -9,4 +9,4 @@ Dependency:
 Download the csv files included in the repository used for training the model and install libraries mentioned in the code.
 
 Run:
-Run the jupyter notebook News Scrapper & Classifier-India
+Run the jupyter notebook News Scrapper & Classifier-India.ipynb
